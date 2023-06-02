@@ -17,7 +17,11 @@
     margin-top: 10px;
     width: 220px;
 
+
+
 }
+
+
 
 main {
 
@@ -102,7 +106,7 @@ section {
 
 }
 
-.currency-value {
+.currency-value,.currency-value-to-convert {
     color: #230548;
     font-weight: 700;
     font-size: 20px;
